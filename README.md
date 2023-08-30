@@ -12,7 +12,7 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 
 
 #### About the Data :
-We have the data of which contains details of customers like id , age, gender and also contains the details of the customers vehicle 
+We have the data of which contains details of customers like id , age, gender and also contains the details of the customers.
 
 
 **Dataset info**
